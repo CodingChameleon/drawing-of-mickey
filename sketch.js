@@ -35,4 +35,5 @@ function draw(){
     
     fill(0,0,0);
     ellipse(270,228,35,25);
+    line(275,80,275,100);
 }
