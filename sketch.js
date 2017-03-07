@@ -25,6 +25,11 @@ function draw(){
     rect(100,210,30,30);
     rect(50,160,70,70);
     
+    fill(255,0,0);
+    textSize(30);
+    textAlign(LEFT);
+    text("H i !",60,205);
+    
     fill(0,0,0);
     ellipse(270,190,20,50);
     ellipse(290,190,20,50);
